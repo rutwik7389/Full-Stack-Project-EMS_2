@@ -99,6 +99,7 @@
               "src/assets"
             ],
             "styles": [
+            
               "src/styles.css"
             ],
             "scripts": []
@@ -106,5 +107,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "628cffde-66c4-408a-80bb-ae20c2f17570"
   }
 }
